@@ -3,6 +3,12 @@
 ## Overview
 This project uses a Long Short-Term Memory (LSTM) neural network to predict the next word in a given text sequence. The model was trained in Google Colab and integrated into an interactive Streamlit web application.
 
+## Live Demo
+
+Try the application: [**Launch Next Word Prediction**](https://next-word-prediction-lstm-jegneq6b64hmhulo3ugvx9.streamlit.app/)
+
+Enter a text sequence and see which word the trained LSTM model predicts next.
+
 ## Features
 - Predicts the next word from user-provided text.
 - Uses a trained LSTM model for sequence-based language prediction.
